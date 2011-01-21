@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jeff/dev/rails/beermee/spec/models'
+let g:netrw_dirhist_2='/home/jeff/dev/rails/beermee'
+let g:netrw_dirhist_3='/home/jeff/dev/rails/beermee/lib'
+let g:netrw_dirhist_4='/home/jeff/dev/rails/beermee/lib/tasks'
